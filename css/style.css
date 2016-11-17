@@ -1,0 +1,24 @@
+#left {
+	float: left;
+	margin: 200px;
+}
+
+#right {
+	float: right;
+	margin: 200px;
+}
+
+.h1	{
+	float: right;
+	margin: 200px;
+}
+
+.h2	{
+	float: left;
+	margin: 200px;
+}
+
+.h3	{
+	float: left;
+	margin: 200px;
+}
